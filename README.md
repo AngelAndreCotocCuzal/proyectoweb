@@ -1,6 +1,12 @@
 # proyectoweb
 Espacio para la pagina web del grupo 1 Universidad Rafael Landivar
 
-Diego Abdo, Angel Cotoc
-Kenny 
-Katy
+
+##Ropa
+La pagina esta dirijida a la moda y la ropa para que todos se sientan bien y tengan su propia seccion
+para buscar lo que necesiten sean niños jovenes y señoritas.
+
+######Participantes
+
+Ana Elisa 
+Angel André Cotoc Cuzal
