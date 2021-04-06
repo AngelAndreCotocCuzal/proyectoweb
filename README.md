@@ -9,7 +9,7 @@ para buscar lo que necesiten sean niños jovenes y señoritas.
 
 ###### Participantes
 
-Ana Elisa 
-Angel André Cotoc Cuzal
+Ana  
+Angel 
 Kenny 
 Katy
