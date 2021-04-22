@@ -5,15 +5,15 @@
 
 }
 
-body{
-	background: #fff;
-}  
+body {
+	background: #f3f5e1; /*no*/
+}
 
-.menu{
-	width: 266px;
+.menu {
+	width: 250px;
 	height: 40px;
-	margin: 20px auto;
-	background: #313d52;   /* Barra colo */
+	margin: 5px auto;
+	background: #006699; /* Barra colo */ /*no*/
 }
 
 .menu ul{
@@ -36,28 +36,25 @@ body{
 	float: center; /* orden del meniu*/
 }
 
-.menu li > a{
-	display: block;
-	padding: 15px 2px;
-	color: #fff;			/* Cambiar color de letra*/
-	font-family: "open sans";
-	text-decoration: none;
+	.menu li > a {
+		display: block;
+		padding: 15px 2px;
+		color: #ffffff; /* Cambiar color de letra*/
+		font-family: "open sans";
+		text-decoration: none;
+	}
 
-}
+	.menu ul li > a:hover {
+		background: #fff;
+		color: #000000;
+		transition: background 1s, color 1s;
+	}
 
-.menu ul li > a:hover{
-	background: #fff;
-	color: #006699;
-	transition: background 1s, color 1s;
-
-}
-
-.submenu{
+.submenu {
 	position: absolute;
-	background: #333333;
+	background: #006699;
 	width: 140%;
 	display: none;
-	
 }
 
 .submenu li a{
@@ -70,17 +67,37 @@ body{
 
 .menu li:hover .submenu{
 	display: block;
-} 
-
-
-
-#principal{
-	width: 900px;
-	height: auto; overflow: hidden;
-	border: 0px solid #000;
-	margin: auto;
-
- 
 }
 
+
+
+#principal {
+	width: 900px;
+	height: auto;
+	overflow: hidden;
+	border: 10px solid #ff0404;
+	margin: auto;
+}
+
+#logo {
+	width: 260px;
+	height: 70px;
+	margin: 20px auto;
+	color: #ffffff;/*Color de la letra*/
+	background: #006699;
+}
+
+#Mision
+{
+	margin: 20px auto;
+	color: rgb(0, 0, 0);
+	
+}
+
+div
+{
+margin-left: 5%;
+margin-right: 25%;
+
+}
 
